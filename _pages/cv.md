@@ -347,139 +347,139 @@ Expeditions and field campaigns
 Participated in 26 cruises in total, with 6 as chief scientist and 7 as group leader.
 
 2025:
-: RV _Polarstern_, cruise [PS150](https://download.pangaea.de/reference/136611/attachments/PS150_nav.png) "EGC-Sources" — 51 days from Longyearbyen, Svalbard to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS150](https://download.pangaea.de/reference/136611/attachments/PS150_nav.png) "EGC-Sources" — 51 days from Longyearbyen, Svalbard to Bremerhaven, Germany<br>
 Co-Chief Scientist and Group Leader (physical oceanography):
-servicing of moorings and CTD measurements in Fram Strait
+ship- and helicopter-based survey of the boundary current north of Greenland indluding the deployment of a mooring array
 
 2025:
-: RV _Heincke_, cruise HE658.1 — 5 days from Bremerhaven to Helgoland, Germany
+: RV _Heincke_, cruise HE658.1 — 5 days from Bremerhaven to Helgoland, Germany<br>
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2024:
-: RV _Polarstern_, cruise [PS143.2](https://doi.org/10.57738/BZPM_0801_2025) "FRAM2024" — 26 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS143.2](https://doi.org/10.57738/BZPM_0801_2025) "FRAM2024" — 26 days from and to Tromsø, Norway<br>
 Co-Chief Scientist and Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
 2024:
-: RV _Heincke_, cruise HE638.3 — 5 days from Helgoland to Bremerhaven, Germany
+: RV _Heincke_, cruise HE638.3 — 5 days from Helgoland to Bremerhaven, Germany<br>
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2023:
-: RV _Heincke_, cruise HE617.3 — 5 days from Helgoland to Bremerhaven, Germany
+: RV _Heincke_, cruise HE617.3 — 5 days from Helgoland to Bremerhaven, Germany<br>
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2022:
-: RV _Polarstern_, cruise [PS133.1](https://doi.org/10.57738/BzPM_0774_2023) "Island Impact" — 48 days from Cape Town, South Africa to Punta Arenas, Chile
+: RV _Polarstern_, cruise [PS133.1](https://doi.org/10.57738/BzPM_0774_2023) "Island Impact" — 48 days from Cape Town, South Africa to Punta Arenas, Chile<br>
 Group Leader (physical oceanography):
 high-resolution sections across the Antarctic Circumpolar Current
 
 2022:
-: RV _Polarstern_, cruise [PS131](https://doi.org/10.57738/BzPM_0770_2023) "ATWAICE" — 51 days from and to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS131](https://doi.org/10.57738/BzPM_0770_2023) "ATWAICE" — 51 days from and to Bremerhaven, Germany<br>
 Group Leader (physical oceanography):
 interdisciplinary marginal ice-zone study north of Svalbard;
 servicing of moorings in Fram Strait and on the East Greenland shelf
 
 2022:
-: RV _Heincke_, cruise HE597.1 — 2 days from and to Bremerhaven, Germany
+: RV _Heincke_, cruise HE597.1 — 2 days from and to Bremerhaven, Germany<br>
 Chief Scientist: Student teaching cruise, University of Bremen,
 POLMAR graduate school, and Jacobs University Bremen
 
 2020:
-: RV _Merian_, cruise [MSM93](https://doi.org/10.48433/cr_msm93) "SDFS" — 35 days from and to Emden, Germany
+: RV _Merian_, cruise [MSM93](https://doi.org/10.48433/cr_msm93) "SDFS" — 35 days from and to Emden, Germany<br>
 Chief Scientist:
 high-resolution physical–biological evolution of a submesoscale front in Fram Strait;
 servicing of moorings in the West Spitsbergen Current
 
 2019:
-: RV _Polarstern_, cruise [PS121](https://doi.org/10.2312/BzPM_0738_2020) "FRAM2019" — 35 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS121](https://doi.org/10.2312/BzPM_0738_2020) "FRAM2019" — 35 days from Bremerhaven, Germany to Tromsø, Norway<br>
 Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
 2019:
-: RV _Heincke_, cruise HE531 — 12 days from and to Bremerhaven, Germany
+: RV _Heincke_, cruise HE531 — 12 days from and to Bremerhaven, Germany<br>
 Chief Scientist (leg 3) and participant in legs 1 and 2:
 student teaching cruise, University of Bremen, POLMAR graduate school,
 and Jacobs University Bremen
 
 2018:
-: RV _Polarstern_, cruise [PS114](https://doi.org/10.2312/BzPM_0723_2018) "FRAM2018" — 25 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS114](https://doi.org/10.2312/BzPM_0723_2018) "FRAM2018" — 25 days from Bremerhaven, Germany to Tromsø, Norway<br>
 Chief Scientist:
 servicing of moorings in Fram Strait and physical and biogeochemical station sampling
 
 2018:
-: RV _Polarstern_, cruise [PS113](https://doi.org/10.2312/BzPM_0724_2018) — 36 days from Punta Arenas, Chile to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS113](https://doi.org/10.2312/BzPM_0724_2018) — 36 days from Punta Arenas, Chile to Bremerhaven, Germany<br>
 acquisition of underway sections with the Triaxus Remotely Operated Towed Vehicle
 across the Atlantic Ocean
 
 2018:
-: RV _Heincke_, cruise HE508 — 3 days from and to Bremerhaven, Germany
+: RV _Heincke_, cruise HE508 — 3 days from and to Bremerhaven, Germany<br>
 student teaching cruise, POLMAR graduate school and Jacobs University Bremen
 
 2017:
-: RV _Polarstern_, cruise [PS107](https://doi.org/10.2312/BzPM_0717_2018) "FRAM2017" — 30 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS107](https://doi.org/10.2312/BzPM_0717_2018) "FRAM2017" — 30 days from and to Tromsø, Norway<br>
 Group Leader (physical oceanography):
 underway CTD and vessel-mounted ADCP survey of a submesoscale front;
 CTD measurements in Fram Strait
 
 2017:
-: RV _Heincke_, cruise HE483 — 8 days from and to Bremerhaven, Germany
+: RV _Heincke_, cruise HE483 — 8 days from and to Bremerhaven, Germany<br>
 student teaching cruise, POLMAR graduate school and Jacobs University Bremen
 
 2017:
-: RV _Heincke_, cruise HE477 — 15 days from and to Bremerhaven, Germany
+: RV _Heincke_, cruise HE477 — 15 days from and to Bremerhaven, Germany<br>
 testing and training on the Triaxus Remotely Operated Towed Vehicle in Sognefjord
 
 2016:
-: RV _Polarstern_, cruise [PS100](https://doi.org/10.2312/BzPM_0705_2017) "GRIFF" — 51 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS100](https://doi.org/10.2312/BzPM_0705_2017) "GRIFF" — 51 days from and to Tromsø, Norway<br>
 Group Leader (physical oceanography):
 recovery of 16 moorings, deployment of 25 moorings, CTD and LADCP measurements,
 helicopter-borne temperature–depth profiles in Fram Strait and on the East Greenland shelf
 
 2015:
-: RV _Heincke_, cruise HE451.2 — 13 days from Longyearbyen, Svalbard to Bremerhaven, Germany
+: RV _Heincke_, cruise HE451.2 — 13 days from Longyearbyen, Svalbard to Bremerhaven, Germany<br>
 deployment of five physical oceanographic moorings in Fram Strait
 
 2015:
-: RV _Polarstern_, cruise [PS93.1](https://doi.org/10.2312/BzPM_0695_2016) — 20 days from Longyearbyen, Svalbard to Tromsø, Norway
+: RV _Polarstern_, cruise [PS93.1](https://doi.org/10.2312/BzPM_0695_2016) — 20 days from Longyearbyen, Svalbard to Tromsø, Norway<br>
 Group Leader (physical oceanography):
 mooring recovery and deployment; CTD and UCTD measurements;
 Seaglider and Argo float deployment in Fram Strait;
 lecturer to ArcTrain Floating University students
 
 2014:
-: RV _Polarstern_, cruise [PS85](https://doi.org/10.2312/BzPM_0687_2015) — 33 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS85](https://doi.org/10.2312/BzPM_0687_2015) — 33 days from Bremerhaven, Germany to Tromsø, Norway<br>
 oceanographic and biological mooring work in Fram Strait and on the East Greenland shelf
 
 2012:
-: USCGC _Healy_, cruise HLY12-03 — 21 days from and to Dutch Harbor, AK, USA
+: USCGC _Healy_, cruise HLY12-03 — 21 days from and to Dutch Harbor, AK, USA<br>
 Arctic Observing Network service cruise for shelf–basin exchange
 across the Beaufort Sea shelfbreak
 
 2012:
-: RRS _James Clark Ross_, cruise JR267 — 31 days from Reykjavik, Iceland to Longyearbyen, Svalbard
+: RRS _James Clark Ross_, cruise JR267 — 31 days from Reykjavik, Iceland to Longyearbyen, Svalbard<br>
 mooring deployments upstream of Denmark Strait and CTD survey
 of the East Greenland Current
 
 2010:
-: USCGC _Healy_, cruise HLY10-03 — 21 days from Barrow, AK, USA to Dutch Harbor, AK, USA
+: USCGC _Healy_, cruise HLY10-03 — 21 days from Barrow, AK, USA to Dutch Harbor, AK, USA<br>
 Arctic Observing Network service cruise for shelf–basin exchange
 across the Beaufort Sea shelfbreak
 
 2009:
-: USCGC _Healy_, cruise HLY09-04 — 14 days from and to Barrow, AK, USA
+: USCGC _Healy_, cruise HLY09-04 — 14 days from and to Barrow, AK, USA<br>
 Arctic Observing Network service cruise for shelf–basin exchange
 across the Beaufort Sea shelfbreak
 
 2008:
-: USCGC _Healy_, cruise HLY08-04 — 8 days from and to Barrow, AK, USA
+: USCGC _Healy_, cruise HLY08-04 — 8 days from and to Barrow, AK, USA<br>
 Arctic Observing Network service cruise for shelf–basin exchange
 across the Beaufort Sea shelfbreak
 
 2007:
-: SSV _Cramer_, cruise C212A — 9 days from and to Woods Hole, MA, USA
+: SSV _Cramer_, cruise C212A — 9 days from and to Woods Hole, MA, USA<br>
 Joint Program introduction to shipboard scientific measurements
 in the Mid-Atlantic Bight
 
 2006:
-: RV _Knorr_, cruise KN183 — 12 days from and to Woods Hole, MA, USA
+: RV _Knorr_, cruise KN183 — 12 days from and to Woods Hole, MA, USA<br>
 SW06: Shallow Water Experiment of the US Navy on internal waves off New Jersey
