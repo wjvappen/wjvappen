@@ -9,7 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Fram Strait
+
+Here some info.
+
+Dynamics of Fram Strait
+======
+
+Here some info.
+
+Long-term observations in Fram Strait
+======
+
+Here some info.
+
+Process studies in Fram Strait
 ======
 
 Here some info.
