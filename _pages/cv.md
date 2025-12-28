@@ -443,7 +443,7 @@ Knowledge and technology transfer and Science communication and outreach
 
 11/2020:
 : Feature article about scientific activities of RV _Merian_ cruise MSM93
-in Süddeutsche Zeitung and Spektrum der Wissenschaft
+in [Süddeutsche Zeitung](https://www.sueddeutsche.de/wissen/eis-arktis-framstrasse-1.5105845) and [Spektrum der Wissenschaft](https://www.spektrum.de/news/der-atlantik-erobert-den-arktischen-ozean/1788098)
 
 02/2020:
 : TV interview on the occasion of the publication of Schaffer et al.,
@@ -451,7 +451,7 @@ Nature Geoscience (2020), in ARD Tagesschau, ARD Tagesthemen,
 and N3 NDR Info
 
 07/2018:
-: TV interviews on the occasion of RV Polarstern departure from Bremerhaven
+: TV interviews on the occasion of RV _Polarstern_ departure from Bremerhaven
 for cruise PS114 in Buten un Binnen and Sat.1
 
 Method and infrastructure developments
