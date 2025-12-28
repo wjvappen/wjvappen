@@ -20,7 +20,7 @@ Triaxus
 
 Here some info where I refer to the [Triaxus website](https://www.awi.de/en/science/climate-sciences/physical-oceanography/instruments/translate-to-english-triaxus.html).
 <br>
-<img src='/files/Triaxus_on_deck.jpg'>
+<img src='../files/Triaxus_on_deck.jpg'>
 <br>
 Some text.
 ![Triaxus located on deck; photo: Jan Gerken](../files/Triaxus_on_deck.jpg)
