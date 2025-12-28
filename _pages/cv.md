@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+09/2007 to 02/2013: Doctor of Philosophy in Physical Oceanography, Joint Program in Oceanography of Massachusetts Institute of Technology, Cambridge, MA, USA, and Woods Hole Oceanographic Institution}, Woods Hole, MA, USA
+09/2004 to 06/2007: Bachelor of Science in Geosciences and Astrophysics, Jacobs University, Bremen, Germany
+
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#* M.S. in Jekyll, GitHub University, 2014
+#* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
