@@ -26,17 +26,17 @@ Current positions
 Since 10/2020:
 : **Senior Scientist** (tenured),<br>
 Section Physical Oceanography of the Polar Seas,<br>
-Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany
+[Alfred Wegener Institute](https://www.awi.de/en/), Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany
 
 Since 04/2017:
 : **Guest Investigator**,<br>
 Department of Physical Oceanography,<br>
-Woods Hole Oceanographic Institution, Woods Hole, MA, USA
+[Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA, USA
 
 Since 12/2023:
 : **Adjunct Scholar**,<br>
 Department of Oceanography,<br>
-Dalhousie University, Halifax, NS, Canada
+[Dalhousie University](https://www.dal.ca/), Halifax, NS, Canada
 
 Previous positions
 ======
@@ -77,30 +77,30 @@ Career breaks
 Fellowships and awards
 ======
 02/2020 to 04/2020:
-: Visiting international fellowship,<br>
+: **Visiting international fellowship**,<br>
 Visiting fellow in Department of Oceanography,<br>
 Ocean Frontier Institute, Dalhousie University, Halifax, NS, Canada
 
 06/2006 to 08/2006:
-: Summer student fellowship,<br>
+: **Summer student fellowship**,<br>
 Summer student fellow in Department of Physical Oceanography,<br>
 Woods Hole Oceanographic Institution, Woods Hole, MA, USA
 
-Supervision of Bachelor / Master / PhD students and Co-supervision of PhD students
+Supervision of Bachelor/Master/PhD students and Co-supervision of PhD students
 ======
 
 Since 2025:
 : **Supervision of 1 PhD student** (Quentin Rauschenbach),
-Department of Physics, University of Bremen, Bremen, Germany
+Department of Physics, University of Bremen, Bremen, Germany.
 
 2023 – 2024:
 : **Supervision of 1 Master of Science student** (Buu-Lik Duong),
 Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany.
-Title: “[Scale Dependence of Subsurface Density Gradients](http://hdl.handle.net/10013/epic.c001d26c-7535-46de-9d49-e87dfd68aba9)”
+Title: “[Scale Dependence of Subsurface Density Gradients](http://hdl.handle.net/10013/epic.c001d26c-7535-46de-9d49-e87dfd68aba9)”.
 
 Since 2022:
 : **Supervision of 1 PhD student** (Ryan Mole),
-Department of Physics, University of Bremen, Bremen, Germany
+Department of Physics, University of Bremen, Bremen, Germany.
 
 2020 – 2025:
 : **Supervision of 1 PhD student** (Zerlina Hofmann),
@@ -109,31 +109,27 @@ Department of Physics, University of Bremen, Bremen, Germany. Thesis was not com
 2019 – 2020:
 : **Supervision of 1 Master of Science student** (Zerlina Hofmann),
 Department of Physical Oceanography, Christian-Albrecht University of Kiel, Kiel, Germany.
-Title: “[Seasonal variability of Atlantic Water recirculation in Fram Strait from observations]
-(http://hdl.handle.net/10013/epic.47d57510-e533-4a04-995f-cb62c436d4df)”
+Title: “[Seasonal variability of Atlantic Water recirculation in Fram Strait from observations](http://hdl.handle.net/10013/epic.47d57510-e533-4a04-995f-cb62c436d4df)”.
 
 2018 – 2019:
-: Supervision of 1 Master of Science student (Laura Mathieu),
-Department of Environmental Sciences and Engineering, École polytechnique fédérale de Lausanne, Lausanne, Switzerland
-Title: “Using a towed undulating platform to measure ocean velocities and to estimate turbulent dissipation rate”
-http://hdl.handle.net/10013/epic.4b77c1ef-3748-4ed5-8f91-38104f5b9cdf
+: **Supervision of 1 Master of Science student** (Laura Mathieu),
+Department of Environmental Sciences and Engineering, École polytechnique fédérale de Lausanne, Lausanne, Switzerland.
+Title: “[Using a towed undulating platform to measure ocean velocities and to estimate turbulent dissipation rate](http://hdl.handle.net/10013/epic.4b77c1ef-3748-4ed5-8f91-38104f5b9cdf)”.
 
 2016 – 2017:
-: Supervision of 1 Master of Science student (Maren Richter),
-Department of Geosciences, University of Bremen, Bremen, Germany
-Title: “Fram Strait recirculation and the East Greenland Current: Spatial structure north of 79°N”
-http://hdl.handle.net/10013/epic.52015
+: **Supervision of 1 Master of Science student** (Maren Richter),
+Department of Geosciences, University of Bremen, Bremen, Germany.
+Title: “[Fram Strait recirculation and the East Greenland Current: Spatial structure north of 79°N](http://hdl.handle.net/10013/epic.52015).
 
 Since 2015:
-: Co-supervision of 11 PhD students (Janin Schaffer, Thorben Wulff, Stylianos Kritsotalakis, Laura Mathieu, Wiebke Körtke, Lili Hufnagel, Joel Bracamontes Ramirez, Dong-gyun Kim, Simon Reifenberg, Alice Lane, Sofia Kuzmina),
+: **Co-supervision of 11 PhD students** (Janin Schaffer, Thorben Wulff, Stylianos Kritsotalakis, Laura Mathieu, Wiebke Körtke, Lili Hufnagel, Joel Bracamontes Ramirez, Dong-gyun Kim, Simon Reifenberg, Alice Lane, Sofia Kuzmina),
 Departments of Physics, Geosciences, Mathematics/Computer Science, Biology/Chemistry, University of Bremen, Bremen, Germany,
 and Department of Oceanography, Dalhousie University, Halifax, NS, Canada
 
 2014 – 2015:
-: Supervision of 1 Bachelor of Science student (Joleen Heiderich),
-Department of Earth and Space Sciences, Jacobs University, Bremen, Germany
-Title: “Flow of warm Atlantic Water in the Norske trough on the East Greenland shelf”
-http://hdl.handle.net/10013/epic.45716
+: **Supervision of 1 Bachelor of Science student** (Joleen Heiderich),
+Department of Earth and Space Sciences, Jacobs University, Bremen, Germany.
+Title: “[Flow of warm Atlantic Water in the Norske trough on the East Greenland shelf](http://hdl.handle.net/10013/epic.45716)".
 
 Teaching activities
 
