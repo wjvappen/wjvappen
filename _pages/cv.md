@@ -344,7 +344,7 @@ Group experiment flew in Bordeaux, France, September 2006.
 Expeditions and field campaigns
 ======
 
-Participated in 26 cruises in total, with 6 as chief scientist and 7 as group leader.
+Participated in 28 cruises in total, with 7 as chief scientist and 8 as group leader.
 
 2025:
 : RV _Polarstern_, cruise [PS150](https://download.pangaea.de/reference/136611/attachments/PS150_nav.png) "EGC-Sources" — 51 days from Longyearbyen, Svalbard to Bremerhaven, Germany<br>
