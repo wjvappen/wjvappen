@@ -301,7 +301,7 @@ Expeditions and field campaigns
 Participated in 26 cruises in total, with 6 as chief scientist and 7 as group leader.
 
 2025:
-: RV _Polarstern_, cruise PS150 — 51 days from Longyearbyen, Svalbard to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS150](https://download.pangaea.de/reference/136611/attachments/PS150_nav.png) "EGC-Sources" — 51 days from Longyearbyen, Svalbard to Bremerhaven, Germany
 Co-Chief Scientist and Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
@@ -310,7 +310,7 @@ servicing of moorings and CTD measurements in Fram Strait
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2024:
-: RV _Polarstern_, cruise [PS143.2](https://doi.org/10.57738/BZPM_0801_2025) — 26 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS143.2](https://doi.org/10.57738/BZPM_0801_2025) "FRAM2024" — 26 days from and to Tromsø, Norway
 Co-Chief Scientist and Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
@@ -323,12 +323,12 @@ Chief Scientist: Student teaching cruise, University of Bremen
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2022:
-: RV _Polarstern_, cruise PS133.1 — 48 days from Cape Town, South Africa to Punta Arenas, Chile
+: RV _Polarstern_, cruise [PS133.1](https://doi.org/10.57738/BzPM_0774_2023) "Island Impact" — 48 days from Cape Town, South Africa to Punta Arenas, Chile
 Group Leader (physical oceanography):
 high-resolution sections across the Antarctic Circumpolar Current
 
 2022:
-: RV _Polarstern_, cruise PS131 — 51 days from and to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS131](https://doi.org/10.57738/BzPM_0770_2023) "ATWAICE" — 51 days from and to Bremerhaven, Germany
 Group Leader (physical oceanography):
 interdisciplinary marginal ice-zone study north of Svalbard;
 servicing of moorings in Fram Strait and on the East Greenland shelf
@@ -339,13 +339,13 @@ Chief Scientist: Student teaching cruise, University of Bremen,
 POLMAR graduate school, and Jacobs University Bremen
 
 2020:
-: RV _Merian_, cruise MSM93 — 35 days from and to Emden, Germany
+: RV _Merian_, cruise [MSM93](https://doi.org/10.48433/cr_msm93) "SDFS" — 35 days from and to Emden, Germany
 Chief Scientist:
 high-resolution physical–biological evolution of a submesoscale front in Fram Strait;
 servicing of moorings in the West Spitsbergen Current
 
 2019:
-: RV _Polarstern_, cruise PS121 — 35 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS121](https://doi.org/10.2312/BzPM_0738_2020) "FRAM2019" — 35 days from Bremerhaven, Germany to Tromsø, Norway
 Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
@@ -356,12 +356,12 @@ student teaching cruise, University of Bremen, POLMAR graduate school,
 and Jacobs University Bremen
 
 2018:
-: RV _Polarstern_, cruise PS114 — 25 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS114](https://doi.org/10.2312/BzPM_0723_2018) "FRAM2018" — 25 days from Bremerhaven, Germany to Tromsø, Norway
 Chief Scientist:
 servicing of moorings in Fram Strait and physical and biogeochemical station sampling
 
 2018:
-: RV _Polarstern_, cruise PS113 — 36 days from Punta Arenas, Chile to Bremerhaven, Germany
+: RV _Polarstern_, cruise [PS113](https://doi.org/10.2312/BzPM_0724_2018) — 36 days from Punta Arenas, Chile to Bremerhaven, Germany
 acquisition of underway sections with the Triaxus Remotely Operated Towed Vehicle
 across the Atlantic Ocean
 
@@ -370,7 +370,7 @@ across the Atlantic Ocean
 student teaching cruise, POLMAR graduate school and Jacobs University Bremen
 
 2017:
-: RV _Polarstern_, cruise PS107 — 30 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS107](https://doi.org/10.2312/BzPM_0717_2018) "FRAM2017" — 30 days from and to Tromsø, Norway
 Group Leader (physical oceanography):
 underway CTD and vessel-mounted ADCP survey of a submesoscale front;
 CTD measurements in Fram Strait
@@ -384,7 +384,7 @@ student teaching cruise, POLMAR graduate school and Jacobs University Bremen
 testing and training on the Triaxus Remotely Operated Towed Vehicle in Sognefjord
 
 2016:
-: RV _Polarstern_, cruise PS100 — 51 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS100](https://doi.org/10.2312/BzPM_0705_2017) "GRIFF" — 51 days from and to Tromsø, Norway
 Group Leader (physical oceanography):
 recovery of 16 moorings, deployment of 25 moorings, CTD and LADCP measurements,
 helicopter-borne temperature–depth profiles in Fram Strait and on the East Greenland shelf
@@ -394,14 +394,14 @@ helicopter-borne temperature–depth profiles in Fram Strait and on the East Gre
 deployment of five physical oceanographic moorings in Fram Strait
 
 2015:
-: RV _Polarstern_, cruise PS93.1 — 20 days from Longyearbyen, Svalbard to Tromsø, Norway
+: RV _Polarstern_, cruise [PS93.1](https://doi.org/10.2312/BzPM_0695_2016) — 20 days from Longyearbyen, Svalbard to Tromsø, Norway
 Group Leader (physical oceanography):
 mooring recovery and deployment; CTD and UCTD measurements;
 Seaglider and Argo float deployment in Fram Strait;
 lecturer to ArcTrain Floating University students
 
 2014:
-: RV _Polarstern_, cruise PS85 — 33 days from Bremerhaven, Germany to Tromsø, Norway
+: RV _Polarstern_, cruise [PS85](https://doi.org/10.2312/BzPM_0687_2015) — 33 days from Bremerhaven, Germany to Tromsø, Norway
 oceanographic and biological mooring work in Fram Strait and on the East Greenland shelf
 
 2012:
