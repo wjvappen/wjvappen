@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 09/2007 to 02/2013: Doctor of Philosophy in Physical Oceanography, [Joint Program in Oceanography][https://mit.whoi.edu/] of [Massachusetts Institute of Technology][https://web.mit.edu/], Cambridge, MA, USA, and [Woods Hole Oceanographic Institution][https://www.whoi.edu/], Woods Hole, MA, USA
-* 09/2004 to 06/2007: Bachelor of Science in Geosciences and Astrophysics, Jacobs University, Bremen, Germany
+* 09/2007 to 02/2013: Doctor of Philosophy in Physical Oceanography, [Joint Program in Oceanography](https://mit.whoi.edu/) of [Massachusetts Institute of Technology](https://web.mit.edu/), Cambridge, MA, USA, and [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA, USA
+* 09/2004 to 06/2007: Bachelor of Science in Geosciences and Astrophysics, [Jacobs University](https://constructor.university/more/about-us/history), Bremen, Germany
 
 Work experience
 ======
