@@ -12,10 +12,10 @@ redirect_from:
 
 Here I should add some text on the Heincke student cruise at the [Uni Bremen](https://www.pep.uni-bremen.de/teaching--regulations/pep-students-on-practical-marine-research.html).
 
-This is a page not in the menu. You can use markdown in this page.
+Here some fun details on previous cruises to Helgoland.
 
-Heading 1
+Heincke 2025
 ======
 
-Heading 2
+Heincke 2024
 ======
