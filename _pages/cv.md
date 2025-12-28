@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 Education
 ======
@@ -195,6 +195,52 @@ Since 2019:
 Since 2008:
 : **Member**, American Geophysical Union
 
+Knowledge and technology transfer and<br>Science communication and outreach
+======
+
+11/2020:
+: Feature article about scientific activities of RV _Merian_ cruise MSM93
+in [Süddeutsche Zeitung](https://www.sueddeutsche.de/wissen/eis-arktis-framstrasse-1.5105845) and [Spektrum der Wissenschaft](https://www.spektrum.de/news/der-atlantik-erobert-den-arktischen-ozean/1788098)
+
+02/2020:
+: TV interview on the occasion of the publication of Schaffer et al.,
+Nature Geoscience (2020), in ARD Tagesschau, ARD Tagesthemen,
+and N3 NDR Info
+
+07/2018:
+: TV interviews on the occasion of RV _Polarstern_ departure from Bremerhaven
+for cruise PS114 in Buten un Binnen and Sat.1
+
+Method and infrastructure developments
+======
+
+2022:
+: First deployment of the Triaxus Remotely Operated Towed Vehicle (ROTV)
+under sea ice (marginal ice zone north of Svalbard) through the use of
+a depressor behind the stern of RV Polarstern
+
+2016:
+: Basic certified operator training for vLBV300 Remotely Operated Vehicle
+at Teledyne SeaBotix, San Diego, CA, USA
+
+2015 – 2016:
+: Planning of the mooring concept of the Helmholtz Infrastructure Initiative FRAM
+to integrate physical and biological measurements in Fram Strait.
+A total of 18 moorings were deployed in 2016; a subset remains in ongoing redeployments.
+
+2015 – 2017:
+: Development of a lowered ADCP system using an optical gyro
+(inertial navigation system) to determine instrument package orientation
+in regions of weak magnetic fields such as the Arctic Ocean,
+in cooperation with SubCtech GmbH, Kiel, Germany
+
+2013:
+: Planning and supervision of a three-month Seaglider mission
+in the Greenland Sea and Fram Strait
+
+2011 – 2015:
+: Development of a method to correct ADCP compass errors
+resulting from iron in the instrument’s vicinity
 
 Third party funding
 ======
@@ -438,52 +484,7 @@ in the Mid-Atlantic Bight
 : RV _Knorr_, cruise KN183 — 12 days from and to Woods Hole, MA, USA
 SW06: Shallow Water Experiment of the US Navy on internal waves off New Jersey
 
-Knowledge and technology transfer and<br>Science communication and outreach
-======
 
-11/2020:
-: Feature article about scientific activities of RV _Merian_ cruise MSM93
-in [Süddeutsche Zeitung](https://www.sueddeutsche.de/wissen/eis-arktis-framstrasse-1.5105845) and [Spektrum der Wissenschaft](https://www.spektrum.de/news/der-atlantik-erobert-den-arktischen-ozean/1788098)
-
-02/2020:
-: TV interview on the occasion of the publication of Schaffer et al.,
-Nature Geoscience (2020), in ARD Tagesschau, ARD Tagesthemen,
-and N3 NDR Info
-
-07/2018:
-: TV interviews on the occasion of RV _Polarstern_ departure from Bremerhaven
-for cruise PS114 in Buten un Binnen and Sat.1
-
-Method and infrastructure developments
-======
-
-2022:
-: First deployment of the Triaxus Remotely Operated Towed Vehicle (ROTV)
-under sea ice (marginal ice zone north of Svalbard) through the use of
-a depressor behind the stern of RV Polarstern
-
-2016:
-: Basic certified operator training for vLBV300 Remotely Operated Vehicle
-at Teledyne SeaBotix, San Diego, CA, USA
-
-2015 – 2016:
-: Planning of the mooring concept of the Helmholtz Infrastructure Initiative FRAM
-to integrate physical and biological measurements in Fram Strait.
-A total of 18 moorings were deployed in 2016; a subset remains in ongoing redeployments.
-
-2015 – 2017:
-: Development of a lowered ADCP system using an optical gyro
-(inertial navigation system) to determine instrument package orientation
-in regions of weak magnetic fields such as the Arctic Ocean,
-in cooperation with SubCtech GmbH, Kiel, Germany
-
-2013:
-: Planning and supervision of a three-month Seaglider mission
-in the Greenland Sea and Fram Strait
-
-2011 – 2015:
-: Development of a method to correct ADCP compass errors
-resulting from iron in the instrument’s vicinity
 
 
 
