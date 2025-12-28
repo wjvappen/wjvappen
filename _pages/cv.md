@@ -86,7 +86,7 @@ Ocean Frontier Institute, Dalhousie University, Halifax, NS, Canada
 Summer student fellow in Department of Physical Oceanography,<br>
 Woods Hole Oceanographic Institution, Woods Hole, MA, USA
 
-Supervision of Bachelor/Master/PhD students and Co-supervision of PhD students
+Supervision of Bachelor/Master/PhD students and<br>Co-supervision of PhD students
 ======
 
 Since 2025:
@@ -438,7 +438,7 @@ in the Mid-Atlantic Bight
 : RV _Knorr_, cruise KN183 — 12 days from and to Woods Hole, MA, USA
 SW06: Shallow Water Experiment of the US Navy on internal waves off New Jersey
 
-Knowledge and technology transfer and Science communication and outreach
+Knowledge and technology transfer and<br>Science communication and outreach
 ======
 
 11/2020:
