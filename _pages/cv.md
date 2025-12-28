@@ -11,8 +11,14 @@ redirect_from:
 
 Education
 ======
-* 09/2007 to 02/2013: Doctor of Philosophy in Physical Oceanography, [Joint Program in Oceanography](https://mit.whoi.edu/) of [Massachusetts Institute of Technology](https://web.mit.edu/), Cambridge, MA, USA, and [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA, USA
-* 09/2004 to 06/2007: Bachelor of Science in Geosciences and Astrophysics, [Jacobs University](https://constructor.university/more/about-us/history), Bremen, Germany
+09/2007 to 02/2013:
+: Doctor of Philosophy in Physical Oceanography,<br>
+[Joint Program in Oceanography](https://mit.whoi.edu/) of [Massachusetts Institute of Technology](https://web.mit.edu/), Cambridge, MA, USA, and<br>
+[Woods Hole Oceanographic Institution](https://www.whoi.edu/), Woods Hole, MA, USA
+
+09/2004 to 06/2007:
+: Bachelor of Science in Geosciences and Astrophysics,<br>
+[Jacobs University](https://constructor.university/more/about-us/history), Bremen, Germany
 
 
 Current positions
@@ -55,7 +61,7 @@ Department of Earth and Planetary Sciences,<br>
 Massachusetts Institute of Technology, Cambridge, MA, USA
 
 Career breaks
-
+======
 11/2022 to 06/2023:
 : Partial parental leave,<br>
 3 months with 20% work load; 5 months with 75% work load
