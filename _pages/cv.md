@@ -135,62 +135,65 @@ Teaching activities
 ======
 
 Since 2019:
-: **Chief scientist and instructor**, “Practical Physical Oceanography” on board RV Heincke
+: **Chief scientist and instructor**, “Practical Physical Oceanography” on board RV _Heincke_,
 Master Program in Environmental Physics, University of Bremen, Bremen, Germany
 
 2017 – 2019:
-: **Instructor**, “Physical oceanography measurement techniques” on board RV Heincke
+: **Instructor**, “Physical oceanography measurement techniques” on board RV _Heincke_,
 Bachelor of Science students and POLMAR PhD students,
 Jacobs University, Bremen, Germany and AWI
 
 2015 – 2017 and 2019:
-: Lecturer, “Introduction to Physical Oceanography”
+: **Lecturer**, “Introduction to Physical Oceanography”,
 Master Program in Marine Biology, University of Bremen, Bremen, Germany
 
 2015 – 2018:
-: Teaching Assistant, “Physics of the Climate System”
+: **Teaching Assistant**, “Physics of the Climate System”,
 Master Program in Environmental Physics, University of Bremen, Bremen, Germany
 
 2015:
-: Teaching Assistant, “Polar Oceanography”
+: **Teaching Assistant**, “Polar Oceanography”,
 Master Program in Environmental Physics, University of Bremen, Bremen, Germany
 
 2015:
-: Lecturer, “Observational Physical Oceanography” (graduate level)
+: **Lecturer**, “Observational Physical Oceanography” (graduate level),
 ArcTrain Floating University on board RV Polarstern, Fram Strait
 
 2006 – 2007:
-: Teaching Assistant, “General Geosciences and Astrophysics” (undergraduate level)
+: **Teaching Assistant**, “General Geosciences and Astrophysics” (undergraduate level),
 Jacobs University, Bremen, Germany
 
 Institutional responsibilities
+======
 
 Since 2020:
-: Member, technical commission for RV Polarstern at AWI
+: **Member**, technical commission for RV _Polarstern_ at AWI
 
 Since 2019:
-: Chair, scientific users group of topAWI Triaxus Remotely Operated Towed Vehicle at AWI
+: **Chair**, scientific users group of topAWI Triaxus Remotely Operated Towed Vehicle at AWI
 
 2016 – 2024:
-: Task team leader, Task 2.1: Backbone Oceanography of the Helmholtz Infrastructure Initiative FRAM at AWI
+: **Task team leader**, Task 2.1: Backbone Oceanography of the Helmholtz Infrastructure Initiative FRAM at AWI
 
 Reviewing activities
+======
 
 Since 2019:
-: 7 reviews for research funding organizations:
+: **7 reviews for research funding organizations**:
 Eurofleets+, UK Natural Environment Council, CSIRO National Marine Facility, ArcticNet, Ocean Frontier Institute, Creative Destruction Lab, Polarin
 
 Since 2014:
-: 44 reviews for scientific journals:
+: **44 reviews for scientific journals**:
 Deep Sea Research, Journal of Geophysical Research, Geophysical Research Letters, Journal of Physical Oceanography, Journal of Climate, Elementa D, Ocean Science, Frontiers in Marine Science, The Cryosphere, Ocean Dynamics, Nature Communications, Oceanography, Remote Sensing, Earth System Science Data
 
 Membership of scientific societies
+======
 
 Since 2019:
-: Member, The Oceanography Society
+: **Member**, The Oceanography Society
 
 Since 2008:
-: Member, American Geophysical Union
+: **Member**, American Geophysical Union
 
 
 
