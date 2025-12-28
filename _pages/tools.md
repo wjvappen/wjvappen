@@ -22,6 +22,17 @@ Here some info where I refer to the [Triaxus website](https://www.awi.de/en/scie
 <br>
 <img src='../files/Triaxus_on_deck.jpg'>
 <br>
+Triaxus located on deck; photo: Jan Gerken
+<br>
+<img src='../files/Triaxus_behind_ship.jpg'>
+<br>
+Triaxus at the surface behind the ship; photo: Jan Gerken
+<br>
+<img src='../files/Triaxus_with_depressor.jpeg'>
+<br>
+Triaxus at the sea surface with the depressor about to be lowered into the water; photo: Mario Hoppmann
+<br>
+
 Some text.
 ![Triaxus located on deck; photo: Jan Gerken](../files/Triaxus_on_deck.jpg)
 ![Triaxus at the surface behind the ship; photo: Jan Gerken](../files/Triaxus_behind_ship.jpg)
