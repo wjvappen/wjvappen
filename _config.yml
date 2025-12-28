@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Wilken-Jon von Appen"
   pronouns         : # example: "he/him"  
-  bio              : "Observational physical oceanographer"
-  location         : "[Building G, Room 3.11<br>Klussmannstrasse 3d<br>27570 Bremerhaven<br>Germany](https://maps.app.goo.gl/pBDrWo5QJw98d5dT6)"
-  employer         : "[Alfred Wegener Institute,<br>Helmholtz Centre for Polar<br>and Marine Research](https://www.awi.de/en/)"
+  bio              : "Senior scientist<br>Observational physical oceanography"
+  location         : "Building G, Room 3.11<br>Klussmannstrasse 3d<br>27570 Bremerhaven<br>Germany" #"[Building G, Room 3.11<br>Klussmannstrasse 3d<br>27570 Bremerhaven<br>Germany](https://maps.app.goo.gl/pBDrWo5QJw98d5dT6)"
+  employer         : "Alfred Wegener Institute,<br>Helmholtz Centre for Polar<br>and Marine Research" #"[Alfred Wegener Institute,<br>Helmholtz Centre for Polar<br>and Marine Research](https://www.awi.de/en/)"
   uri              : "https://www.awi.de/en/about-us/organisation/staff/single-view/wilken-jon-von-appen.html"# URL
   email            : "Wilken-Jon.von.Appen@awi.de" 
 
