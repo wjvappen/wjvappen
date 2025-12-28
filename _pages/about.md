@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wilken-Jon von Appen's academic website"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
