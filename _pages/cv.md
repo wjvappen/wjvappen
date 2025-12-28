@@ -117,7 +117,7 @@ Department of Environmental Sciences and Engineering, École polytechnique féd�
 Title: “[Using a towed undulating platform to measure ocean velocities and to estimate turbulent dissipation rate](http://hdl.handle.net/10013/epic.4b77c1ef-3748-4ed5-8f91-38104f5b9cdf)”.
 
 2016 – 2017:
-: **Supervision of 1 Master of Science student** (Maren Richter),
+: **Supervision of 1 Master of Science student** ([Maren Richter](https://research-portal.uea.ac.uk/en/persons/maren-elisabeth-richter/)),
 Department of Geosciences, University of Bremen, Bremen, Germany.
 Title: “[Fram Strait recirculation and the East Greenland Current: Spatial structure north of 79°N](http://hdl.handle.net/10013/epic.52015).
 
@@ -132,13 +132,14 @@ Department of Earth and Space Sciences, Jacobs University, Bremen, Germany.
 Title: “[Flow of warm Atlantic Water in the Norske trough on the East Greenland shelf](http://hdl.handle.net/10013/epic.45716)".
 
 Teaching activities
+======
 
 Since 2019:
-: Chief scientist and instructor, “Practical Physical Oceanography” on board RV Heincke
+: **Chief scientist and instructor**, “Practical Physical Oceanography” on board RV Heincke
 Master Program in Environmental Physics, University of Bremen, Bremen, Germany
 
 2017 – 2019:
-: Instructor, “Physical oceanography measurement techniques” on board RV Heincke
+: **Instructor**, “Physical oceanography measurement techniques” on board RV Heincke
 Bachelor of Science students and POLMAR PhD students,
 Jacobs University, Bremen, Germany and AWI
 
