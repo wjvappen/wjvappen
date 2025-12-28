@@ -11,6 +11,9 @@ main:
   - title: "Fram Strait"
     url: /fram-strait/
 
+  - title: "Observational tools"
+    url: /tools/
+
   - title: "ASOF"
     url: /asof/
 
