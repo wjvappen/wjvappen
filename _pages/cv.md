@@ -310,7 +310,7 @@ servicing of moorings and CTD measurements in Fram Strait
 Chief Scientist: Student teaching cruise, University of Bremen
 
 2024:
-: RV _Polarstern_, cruise PS143.2 — 26 days from and to Tromsø, Norway
+: RV _Polarstern_, cruise [PS143.2](https://doi.org/10.57738/BZPM_0801_2025) — 26 days from and to Tromsø, Norway
 Co-Chief Scientist and Group Leader (physical oceanography):
 servicing of moorings and CTD measurements in Fram Strait
 
